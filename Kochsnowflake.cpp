@@ -234,7 +234,7 @@ void init()
 	glLoadIdentity();
     rot=0;
 	/*
-	gluPerspective() — set up a perspective projection matrix
+	gluPerspective() â€” set up a perspective projection matrix
 
 	fovy -         Specifies the field of view angle, in degrees, in the y direction.
 	aspect ratio - Specifies the aspect ratio that determines the field of view in the x direction. The aspect ratio is the ratio of x (width) to y (height).
